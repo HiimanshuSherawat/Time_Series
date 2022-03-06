@@ -2,4 +2,4 @@
 Time Series and Various Models regarding it.
 
 
-ACF & PACF graphical representaion.
+1- ACF & PACF graphical representaion.
