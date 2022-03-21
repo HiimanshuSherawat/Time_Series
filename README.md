@@ -6,4 +6,4 @@ Time Series and Various Models regarding it.
 
 2- ARMA Model
 
-3- 
+3- Augmented Dickey Fuller Test
