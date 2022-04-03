@@ -9,3 +9,7 @@ Time Series and Various Models regarding it.
 3- Augmented Dickey Fuller Test
 
 4- GARCH Model
+
+5- GARCH stock prediction
+
+
