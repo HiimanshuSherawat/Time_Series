@@ -7,3 +7,5 @@ Time Series and Various Models regarding it.
 2- ARMA Model
 
 3- Augmented Dickey Fuller Test
+
+4- GARCH Model
