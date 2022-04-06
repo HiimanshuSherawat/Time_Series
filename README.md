@@ -17,3 +17,5 @@ Time Series and Various Models regarding it.
 7- Google Vision API
 
 8- Granger Causality
+
+9- Investing
