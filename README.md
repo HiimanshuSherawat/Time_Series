@@ -21,3 +21,7 @@ Time Series and Various Models regarding it.
 9- Investing
 
 10 - MA Model
+
+11- Model Selection
+
+12- Multi Arm Bandit
