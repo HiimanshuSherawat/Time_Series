@@ -19,3 +19,5 @@ Time Series and Various Models regarding it.
 8- Granger Causality
 
 9- Investing
+
+10 - MA Model
