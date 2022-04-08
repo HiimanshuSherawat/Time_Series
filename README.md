@@ -25,3 +25,5 @@ Time Series and Various Models regarding it.
 11- Model Selection
 
 12- Multi Arm Bandit
+
+13- SARIMA Model
