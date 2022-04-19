@@ -33,3 +33,5 @@ Time Series and Various Models regarding it.
 15- Stock Forecasting
 
 16- Time series Data preprocessing
+
+17- Undo Stationary Transformation
