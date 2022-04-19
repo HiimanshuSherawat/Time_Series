@@ -29,3 +29,5 @@ Time Series and Various Models regarding it.
 13- SARIMA Model
 
 14- STL Decomposition
+
+15- Stock Forecasting
