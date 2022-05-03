@@ -2,3 +2,6 @@ An ARMA model, or Autoregressive Moving Average model, is used to describe weakl
 
 The first of these polynomials is for autoregression, the second for the moving average.
 
+This is a model that is combined from the AR and MA models.
+
+In this model, the impact of previous lags along with the residuals is considered for forecasting the future values of the time series.
