@@ -1,1 +1,4 @@
-An ARMA model, or Autoregressive Moving Average model, is used to describe weakly stationary stochastic time series in terms of two polynomials. The first of these polynomials is for autoregression, the second for the moving average.
+An ARMA model, or Autoregressive Moving Average model, is used to describe weakly stationary stochastic time series in terms of two polynomials.
+
+The first of these polynomials is for autoregression, the second for the moving average.
+
