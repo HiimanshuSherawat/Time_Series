@@ -3,3 +3,5 @@ GARCH is a statistical model that can be used to analyze a number of different t
 Financial institutions typically use this model to estimate the volatility of returns for stocks, bonds, and market indices.
 
 As with ARCH, GARCH predicts the future variance and expects that the series is stationary, other than the change in variance, meaning it does not have a trend or seasonal component.
+
+These models are especially useful when the goal of the study is to analyze and forecast volatility.
