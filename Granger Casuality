@@ -1,1 +1,3 @@
 Granger causality is a way to investigate causality between two variables in a time series.
+
+The method is a probabilistic account of causality; it uses empirical data sets to find patterns of correlation.
